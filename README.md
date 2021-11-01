@@ -1,2 +1,2 @@
-# cancer_pdf_react
+# react_pdf
 Created with CodeSandbox
